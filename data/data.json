@@ -1,0 +1,22 @@
+{
+    "laptop":[
+        {
+            "id": 1,
+            "brand": "Huawei",
+            "serialNumber": "PF38281Y",
+            "userName": "imraanbernksen"
+        },
+        {
+            "id": 2,
+            "brand": "Lenovo",
+            "serialNumber": "PF38282Y",
+            "userName": "meezaandavids"
+        },
+        {
+            "id": 3,
+            "brand": "Acer",
+            "serialNumber": "PF38283Y",
+            "userName": "brogangys"
+        }
+    ]
+}
